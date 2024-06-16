@@ -7,10 +7,10 @@
 </h3>
 <br>
 <h3 align="center">
-  <span style="background-color:red; display: inline-block; width: 100%;"  >Wow, didn't think you</span><br>
-  <span style="background-color:red; display: inline-block; width: 100%;"  >actually looked there.</span><br>
-  <span style="background-color:white; display: inline-block; width: 100%;">Btw thanks for seeing my profile</span><br>
-  <span style="background-color:white; display: inline-block; width: 100%;">Cheers to both of us!</span>
+  <span style="background-color:red; color: white; display: block;"  >Wait what, did not think you</span>
+  <span style="background-color:red; color: white; display: block;"  >would actually looked here..</span>
+  <span style="background-color:white; color: black; display: block;">Thanks for seeing my profile</span>
+  <span style="background-color:white; color: black; display: block;">Soooo, Cheers to both of us!</span>
 </h3>
 
 
