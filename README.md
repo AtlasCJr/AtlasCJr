@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-<div align="center">
+<div align="center" style="padding: 0;">
   <img src="assets/BG1.gif" alt="Computer Gif">
   <h5>Success is the sum of small efforts, repeated day in and day out.</h5>
   <h5>– Robert Collier</h5>
@@ -17,7 +17,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="assets/Honeycomb.gif" alt="Computer Gif">
+  <h1><img src="assets/Honeycomb.gif" alt="Computer Gif"></h1>
 </div>
 
 <div align="center" style="border: 2px solid #000; padding: 10px; display: inline-block;">
