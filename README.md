@@ -11,14 +11,16 @@
 <br>
 
 <div align="center">
-  <img src="BG1.gif" alt="Computer Gif">
+  <img src="assets/BG1.gif" alt="Computer Gif">
 </div>
 
 <br>
 <br>
 <br>
 
-<h1 align="center">Skill Sets Honeycomb</h1>
+<div align="center">
+  <img src="assets/Honeycomb.gif" alt="Computer Gif">
+</div>
 
 <div align="center" style="border: 2px solid #000; padding: 10px; display: inline-block;">
   
