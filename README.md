@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="assets/Title.png" alt="Title">
 </div>
 
@@ -7,9 +7,13 @@
 <h4 align="center">
   An Electrical Engineering student at the <a href="https://www.ui.ac.id/en/universitas-indonesia/">University of Indonesia</a>, 
   <br>passionate about both software and hardware development, 
-  <br>with a deep interest in **machine learning** and **IoT**.
+  <br>with a deep interest in machine learning and IoT.
 </h4>
 
+<div align="center">
+  <img src="https://placehold.co/45x15/f03c15/f03c15.png" alt="Red"><br>
+  <img src="https://placehold.co/45x15/ffffff/ffffff.png" alt="White">
+</div>
 
 
 <br><br><br>
